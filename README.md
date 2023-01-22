@@ -1,5 +1,4 @@
 # Topsis
-## By Gurleen Kaur, 102003138
 This package can be used for implementation of Multiple criteria decision making using Topsis Algorithm. This is a python library for dealing with Multi-Criteria Decision Making (MCDM) problems by using techniques for order of preference by similarity to ideal solution (TOPSIS).
 ## Installation
 ```sh
