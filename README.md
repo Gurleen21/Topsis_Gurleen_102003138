@@ -27,3 +27,4 @@ pip install topsis_gurleen_102003138
 ## License
 © 2023 Gurleen Kaur
 This repository is licensed under the MIT license. See LICENSE for details.
+[MIT](https://choosealicense.com/licenses/mit/)
